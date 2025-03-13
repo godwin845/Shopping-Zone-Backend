@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# npm package lock file
+package-lock.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VSCode settings folder
+.vscode/
+
+# MacOS Finder metadata
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
+# OS-specific files
+ehthumbs.db
